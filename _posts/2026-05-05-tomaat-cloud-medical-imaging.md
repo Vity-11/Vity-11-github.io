@@ -69,4 +69,4 @@ Beyond the specific case of TOMAAT, the interesting point is to see how cloud co
 ## References
 
 - Milletari, F., Frei, J., Aboulatta, M., Vivar, G., & Ahmadi, S. A. (2018). *TOMAAT: volumetric medical image analysis as a cloud service*. arXiv preprint [arXiv:1803.06784](https://arxiv.org/abs/1803.06784).
-- *Figure 1. TOMAAT architecture overview. Source: Milletari et al. (2018), [arXiv:1803.06784](https://arxiv.org/abs/1803.06784).*
+- *Figure 1. TOMAAT architecture overview. Source: Milletari et al. (2018).
