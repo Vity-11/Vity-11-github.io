@@ -5,7 +5,7 @@ subtitle: "How to bring deep learning models for medical imaging from the lab to
 tags: [cloud, biomedicine, deep-learning, medical-imaging]
 ---
 
-![*Figure 1. TOMAAT architecture diagram](/images/tomaat-architecture.png)
+![*Figure 1. TOMAAT architecture diagram](/images/tomaat-diagram.png)
 
 
 Medical image analysis has changed a lot in the last decade thanks to *deep learning*. However, taking these models from a research paper to a tool that a radiologist or a researcher can actually use every day is still difficult: you need to install dependencies, manage GPUs, replicate pre and post-processing pipelines... In this post I explore **TOMAAT**, an open-source framework that proposes an elegant solution: offering these models as a *cloud service*.
